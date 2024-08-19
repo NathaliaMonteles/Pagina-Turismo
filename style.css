@@ -1,0 +1,121 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background-color: #F5F4F0;
+  margin: 50px 80px;
+}
+
+h1 {
+  font-family: "Open Sans", sans-serif;
+  font-size: 36px;
+  font-weight: bold;
+}
+
+h2 {
+  font-family: "Open Sans", sans-serif;
+  font-size: 32px;
+  font-weight: bold;
+}
+
+.historia {
+  color: #0C51A7;
+}
+
+.casais {
+  color: #591B98;
+}
+
+.orcamento {
+  color: #E95E10;
+}
+
+.familias {
+  color: #E5245E;
+}
+
+.principal h6 {
+  font-family: "Open Sans", sans-serif;
+  font-size: 16px;
+  font-weight: bold;
+  color: #E1624F;
+  margin-bottom: 10px;
+  margin-top: 64px;
+}
+
+.principal img {
+  width: 1350px;
+  height: 600px;
+  border-radius: 28px;
+  margin-top: 30px;
+  margin-bottom: 10px;
+}
+
+.subtitulo p {
+  font-family: "Open Sans", sans-serif;
+  font-size: 16px;
+  text-align: center;
+  margin-bottom: 40px;
+}
+
+.principal p {
+  font-family: "Open Sans", sans-serif;
+  font-size: 16px;
+  font-weight: regular;
+  margin-top: 10px;
+  margin-bottom: 4px;
+}
+
+#locais img {
+  border-radius: 28px;
+  width: 1350px;
+  height: 600px;
+  margin-bottom: 20px;
+  margin-top: 20px;
+}
+
+#locais h3 {
+  font-family: "Open Sans", sans-serif;
+  font-size: 28px;
+  font-weight: bold;
+  margin-bottom: 4px;
+}
+
+#locais p {
+  font-family: "Open Sans", sans-serif;
+  font-size: 16px;
+  font-weight: regular;
+  margin-bottom: 40px;
+}
+
+p {
+  font-family: "Open Sans", sans-serif;
+  font-size: 16px;
+  font-weight: regular;
+  color: #333333;
+}
+
+.semifooter p {
+  text-align: center;
+}
+
+footer {
+  margin-top: 65px;
+  text-align: center
+}
+
+hr {
+  margin-bottom: 40px;
+  margin-top: 40px;
+}
+
+footer {
+  font-family: "Alice", serif;
+  color: #1B1B1B;
+}
+
+footer img {
+  vertical-align: middle;
+}
